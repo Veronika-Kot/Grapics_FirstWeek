@@ -1,5 +1,4 @@
-# Grapics_FirstWeek
-## Fanshawe
+# Grapics_FirstWeek (Fanshawe)
 
 Playing around with GLFW ["Getting started"](http://www.glfw.org/docs/latest/quick.html) code 
 
